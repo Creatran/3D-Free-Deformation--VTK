@@ -1,0 +1,9 @@
+obj/1.obj
+obj/2.obj
+obj/3.obj
+obj/4.obj
+obj/5.obj
+obj/6.obj
+obj/7.obj
+obj/8.obj
+obj/10.obj
